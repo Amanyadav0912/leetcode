@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Amanyadav0912/leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Amanyadav0912/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Amanyadav0912/leetcode/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
