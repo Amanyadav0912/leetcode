@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Amanyadav0912/leetcode/tree/master/0912-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amanyadav0912/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amanyadav0912/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Divide and Conquer
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Amanyadav0912/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amanyadav0912/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
