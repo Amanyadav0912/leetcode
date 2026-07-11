@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Amanyadav0912/leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amanyadav0912/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amanyadav0912/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1929-concatenation-of-array](https://github.com/Amanyadav0912/leetcode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amanyadav0912/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Amanyadav0912/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
